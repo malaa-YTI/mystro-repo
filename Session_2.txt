@@ -11,6 +11,10 @@
     
     - achievements
     - clean commit
+        - add
+        - edit
+        - delete
+
     - when we should push
     - git work flow
 

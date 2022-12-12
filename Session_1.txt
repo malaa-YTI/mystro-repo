@@ -1,0 +1,8 @@
+) Git:
+    - create a new repository:
+        - new folder
+        - new file.txt
+        - add photo
+
+    - add & commit & push 
+    
