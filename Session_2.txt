@@ -1,0 +1,33 @@
+1) Git:
+    - create a new repository:
+        - new folder
+        - new file.txt
+        - add photo
+
+    - add & commit & push 
+    - create branch & switch 
+    - push again & pull from another branch
+    - merge two branchs
+    
+    - achievements
+    - clean commit
+    - when we should push
+    - git work flow
+
+2) FrontEnd:
+    - HTML
+    - CSS
+    - Bootstrap
+    - javascript
+    - javascript:
+        - angular
+        - react
+        - vue
+
+3) BackEnd:
+    - python:
+        - django
+        - flask
+        - fastapi
+    - ruby
+    - java
